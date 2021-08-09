@@ -15,5 +15,7 @@
 ### Web-browser 
 http://localhost:8080/ (username:root, host: mysqldb)
 
+http://localhost:5000/initdb
+
 http://localhost:5000/widgets (Data display)
 

@@ -8,6 +8,6 @@
     $ curl -X GET  http://localhost:5000/widgets
     $ curl -X POST  http://localhost:5000/widgets
 ### Web-browser 
-    http://localhost:8080/ (username:root, host: mysqldb)
-    http://localhost:5000/widgets (Data display)
+https://localhost:8080/ (username:root, host: mysqldb)
+https://localhost:5000/widgets (Data display)
 

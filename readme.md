@@ -1,3 +1,5 @@
+# Create sample python application using flask and mysql Database
+
 ##RUN
 ### Create python envionment and clone repo
 

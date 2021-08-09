@@ -15,7 +15,11 @@
 ### Web-browser 
 http://localhost:8080/ (username:root, host: mysqldb)
 
-http://localhost:5000/initdb
+http://localhost:5000/initdb (reset db)
+
+### Request -Load and display data from data directory
+    $ curl -X POST  http://localhost:5000/widgets
+    $ curl -X GET  http://localhost:5000/widgets
 
 http://localhost:5000/widgets (Data display)
 
